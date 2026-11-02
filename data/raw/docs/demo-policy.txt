@@ -1,0 +1,1 @@
+Every answer should be grounded in retrieved passages. Keep document identifiers and chunk offsets so citations can point back to the original source.

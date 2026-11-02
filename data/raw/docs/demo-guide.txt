@@ -1,0 +1,1 @@
+Incremental document pipelines should hash source content, skip unchanged files, retain source metadata, and produce overlapping chunks for retrieval.
